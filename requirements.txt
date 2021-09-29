@@ -14,7 +14,7 @@ django-environ==0.7.0
 django-filter==2.4.0
 django-templated-mail==1.1.1
 djangorestframework==3.11.0
-djangorestframework-simplejwt==4.3.0
+djangorestframework-simplejwt==4.7.2
 djoser==2.1.0
 environ==1.0
 gunicorn==20.0.4
@@ -31,7 +31,7 @@ pluggy==0.13.1
 psycopg2-binary==2.8.5
 py==1.8.1
 pycparser==2.20
-PyJWT==1.7.1
+PyJWT==2.1.0
 pyparsing==2.4.7
 pytest==5.4.1
 pytest-django==3.9.0
